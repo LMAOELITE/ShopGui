@@ -1,6 +1,6 @@
 <?php
 
-namespace GuiShop;
+namespace ELITESHOP;
 
 use pocketmine\Player;
 use pocketmine\Server;
